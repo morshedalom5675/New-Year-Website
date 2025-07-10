@@ -1,0 +1,11 @@
+.image{
+    background-image: url('../Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    margin-top: auto; 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+   
